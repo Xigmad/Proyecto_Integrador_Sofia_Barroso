@@ -15,6 +15,7 @@ div{
     box-shadow: 3px 3px 3px grey;
     left: 3%;
     top: 700px;
+    height: 30%;
   }
 }
 @media(max-width: 575px){
