@@ -1,4 +1,6 @@
 .row{
-  background-color: aquamarine;
+  background-color: #010003;
   padding: 20px;
+  background-image:url("../../../assets/Violeta.png");
+  background-size: 30%;
 }

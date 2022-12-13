@@ -1,9 +1,11 @@
 .row{
-  background-color: beige;
+  background-color: #360063;
   padding: 20px;
+  color: #fefefe;
 }
 .contenedor{
   width: auto;
+  color: #fefefe;
 }
 .parte1{
   display: inline-block;
